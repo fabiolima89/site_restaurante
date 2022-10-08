@@ -104,7 +104,6 @@ form button {
     margin-bottom: 8px;
     padding: 8px;
 }
-
 form textarea {
     resize: none;
     height: 180px;
@@ -118,9 +117,7 @@ form button {
     color: #fff;
     border: none;
     cursor: pointer;
-    
 }
-
 form button:hover {
     background-color: #24408c;
 }
